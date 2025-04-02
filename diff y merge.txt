@@ -1,0 +1,4 @@
+diff: ver diferencias entre ramas.
+
+
+merge: unir el contenido de ramas para que el contenido quede unificado.
